@@ -6,29 +6,60 @@ $light-green: #5d9532;
 	margin: 0;
 }
 
-.header-image img {
+#sidebar {
+	background-color: red;
+	padding: 20px;
+	height: 100%;
+}
+
+#header-image img {
 	width: 100%;
 	height: auto;
 }
 
-.sidebar {
+#menu {
 	
-}
-
-.navbar {
 	
-	div {}
+	
+	div {
+		
+		background-color: $light-green;
+		border: thin solid $dark-green;
+		
+	}
 	
 	ul {
 		 list-style-type: none;
 	}
 	
-	li {}
+	li {
+		
+		border: thin solid $dark-green;
+		padding: 10px;
+		
+	}
 	
 	a {
 		text-decoration: none;
 	}
 	
+}
+
+.site-identity {
+	width: 100%;
+	
+	
+	h1 {
+		
+		font-size: 1.5em !important;
+		
+	}
+	
+	h3 {
+		
+		font-size: 0.9em !important;
+		
+	}
 }
 
 /* sass --watch wp-content/themes/murpheys/css/styles.scss:wp-content/themes/murpheys/css/styles.min.css */

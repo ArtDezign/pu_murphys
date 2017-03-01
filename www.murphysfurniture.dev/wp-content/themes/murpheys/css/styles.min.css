@@ -2,14 +2,32 @@
   padding: 0;
   margin: 0; }
 
-.header-image img {
+#sidebar {
+  background-color: red;
+  padding: 20px;
+  height: 100%; }
+
+#header-image img {
   width: 100%;
   height: auto; }
 
-.navbar ul {
+#menu div {
+  background-color: #5d9532;
+  border: thin solid #136229; }
+#menu ul {
   list-style-type: none; }
-.navbar a {
+#menu li {
+  border: thin solid #136229;
+  padding: 10px; }
+#menu a {
   text-decoration: none; }
+
+.site-identity {
+  width: 100%; }
+  .site-identity h1 {
+    font-size: 1.5em !important; }
+  .site-identity h3 {
+    font-size: 0.9em !important; }
 
 /* sass --watch wp-content/themes/murpheys/css/styles.scss:wp-content/themes/murpheys/css/styles.min.css */
 
