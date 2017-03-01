@@ -41,5 +41,16 @@ $header_logo = array(
 );
 
 add_theme_support( 'custom-header', $header_logo );
+add_theme_support( 'custom-background' );
+add_theme_support( 'post-thumbnails' );
+
+
+//Menu
+
+function register_menu() {
+  register_nav_menu('header',__( 'Murphys' ));
+}
+
+add_action( 'init', 'register_menu' );
 
 ?>

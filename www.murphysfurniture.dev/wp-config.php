@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'murphysfDBemgms');
+define('DB_NAME', 'murphysfDBf90wn');
 
 /** MySQL database username */
-define('DB_USER', 'murphysfDBemgms');
+define('DB_USER', 'murphysfDBf90wn');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'RiORIiacDu');
+define('DB_PASSWORD', 'p0peVmeVKB');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'bur^MQTjm2M3Iy<{{Aq*y$LPiXex2LPATX<;26Apt#x+;Pimpx+LOLSW#]D1LSt#]');
-define('SECURE_AUTH_KEY',  'D]~:ats_OSKdh158CVw|_15l-o@Jdgds8CCR!|8|8Cgz@!|UYgcgz4CVJcg0404Br');
-define('LOGGED_IN_KEY',    'bq*LaXaq6PDS_26;Dtxx]Watl+HLOdh:D9Dt_##9Zpl-~KdSh15S~:Nc>8|4gvv>U');
-define('NONCE_KEY',        '8r,>|>Ycvj@^QURYc}0JBFYy}}07nruy^QUnUcv7QEXb{73BEuy$*3XbubuyIM');
-define('AUTH_SALT',        '-5:1hl~s|[ZdZdl58SGZd!4848ow-47Rrz}z}0gknr,FYcNgk37BIM$^3^37nru$^');
-define('SECURE_AUTH_SALT', 'J^<{3jqu$y^,Ibjbfn6EMQAIb^.{6EMmu<y*.{bjmey*AHPLTXf.6E2AHx*#]+;');
-define('LOGGED_IN_SALT',   'nu>Ibfbf7BEIQ^.7,7Efy$*.Tbfbfy6ATex*9TWTX#;259Sx+;+;2iptx-KOhSWp');
-define('NONCE_SALT',       '_9lplp_DWeSlp9DKHK-_#[:Gh-~-~OWZdh-4CVCVZ~158Gs-@-@1Rksgz@NRNVZ[}');
+define('AUTH_KEY',         '+eL2{.*xeXPLE6;+tqiaHA2]#*meWE7<umfbTM3{.*yqXPIA6<*yfXP7>vnjbU');
+define('SECURE_AUTH_KEY',  ';xdaSK1]_~wpWOG91:#~ldWO6;#*meWSLD6;+tliaS92]#~xeWOH<*yeXPLE6;+u');
+define('LOGGED_IN_KEY',    '}vgMJB>,rjfMJB>,$jfY0}|soVNJC>|@kgYFB4!zvcUQ[!~kdZG84:-wdVR80:zso');
+define('NONCE_KEY',        '}oYJF0@nk!soVGC[|wdNK0:@kgR8#wdaK1:-lhO95|soZGC*liS95_tpaH1;-lhS9');
+define('AUTH_SALT',        '*XE2.yiXL6]*bQE,ynXMA{^qfTE3<$YNB}^vfUJ3>yncMB,u}^rgQF3,yjYM7{$');
+define('SECURE_AUTH_SALT', 'P]+maLA;*teSH6#+pMA.uiXI6<+qbPE2.xmjXMA{^qfTE3<$mbPA.yYJ7}$rcQF');
+define('LOGGED_IN_SALT',   ',gN7}odNC:!sgVK4[@ocNC}@9:~pdO9[-lSG1|wlV5#+laO9;_thWH5]-paO]*ueT');
+define('NONCE_SALT',       'P{yiX3>znYI7>$nYM7{$rbMscRB0!vgUF4>znYN7}oZN8:@sdRC0!wgRF0|hWG5|w');
 
 /**#@-*/
 
